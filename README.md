@@ -1,10 +1,14 @@
+***Details of this project will not be revealed until July 2024.***
+
+
+
+
 **On-Fairy-Line**
 
 This project is based on the board game Fairy Tile, a simplified model of the game implemented in an online space. In this React-based board game implementation, I plan to use the following technologies:
 - MySQL database
 - React-based frontend
 - Java (Springboot) back-end
-- 3D technology, AI (?)
 
 **I plan to implement the following functionalities in addition to the board game logic:**
 
